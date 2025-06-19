@@ -168,7 +168,7 @@ SOFTWARE.
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-This license applies to the *concept and design ideas* of PWNTOOL as conceived by Muhammed Shafin P and BytexGrid.
+This license applies to the *concept and design ideas* of PWNTOOL as conceived by Muhammed Shafin P.
 
 You are free to:
 * **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
