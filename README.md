@@ -124,10 +124,10 @@ By expanding on these areas, your PWNTOOL concept can evolve into a truly compre
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/hejhdiss/pwntool.git](https://github.com/hejhdiss/pwntool.git)
+   git clone https://github.com/hejhdiss/pwntool.git
    cd pwntool
    ```
-   
+
 2.  **Run the application:**
 
     ```bash
