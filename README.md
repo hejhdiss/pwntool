@@ -134,6 +134,13 @@ By expanding on these areas, your PWNTOOL concept can evolve into a truly compre
     python3 sample.py
     ```
 
+## Tested Platform
+
+- **Operating System:** Xubuntu 24.04.2 LTS
+- **Virtualization Platform:** VMware Workstation 17
+- **Notes:** The project has been tested and confirmed working in this environment. Compatibility with other Linux distributions or setups may vary.
+
+
 ## Contributing
 
 As a proof-of-concept, contributions are welcome to expand functionality and refine the user experience. Feel free to fork the repository, make your changes, and submit pull requests.
