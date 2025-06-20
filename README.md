@@ -7,6 +7,7 @@ It serves as an early working prototype for an upcoming full-featured project ca
 
 
 **Concept by:** Muhammed Shafin P (@hejhdiss)
+**User interface design:** BytexGrid
 
 ## UI Design Credits
 
