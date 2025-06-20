@@ -5,9 +5,9 @@
 PWNTOOL is a proof-of-concept application designed as a Hacker's Toolkit, providing a graphical user interface for various cybersecurity tools. This project aims to demonstrate a simplified, interactive environment for common penetration testing and network analysis tasks.  
 It serves as an early working prototype for an upcoming full-featured project called **pwnpanel**.
 
-
-**Concept by:** Muhammed Shafin P (@hejhdiss)
-**User interface design:** BytexGrid
+- **pwnpanel repo:** [https://github.com/BytexGrid/pwnpanel](https://github.com/BytexGrid/pwnpanel)
+- **Concept by:** Muhammed Shafin P (@hejhdiss)
+- **User interface design:** BytexGrid
 
 ## UI Design Credits
 
