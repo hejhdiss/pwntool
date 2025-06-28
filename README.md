@@ -1,5 +1,11 @@
 # PWNTOOL - Hacker's Toolkit (Proof of Concept)
 
+> **⚠️ PROJECT DISCONTINUED ⚠️**
+> 
+> This project has been stopped and is no longer under active development. The concept and codebase are now available for anyone to build upon, expand, or continue development. We encourage the community to fork this repository and take the project in new directions.
+> 
+> **For those interested in the alpha version we were building, please visit:** [pwnpanel repository](https://github.com/BytexGrid/pwnpanel)
+
 ## Overview
 
 PWNTOOL is a proof-of-concept application designed as a Hacker's Toolkit, providing a graphical user interface for various cybersecurity tools. This project aims to demonstrate a simplified, interactive environment for common penetration testing and network analysis tasks.  
@@ -144,10 +150,96 @@ By expanding on these areas, your PWNTOOL concept can evolve into a truly compre
 - **Virtualization Platform:** VMware Workstation 17
 - **Notes:** The project has been tested and confirmed working in this environment. Compatibility with other Linux distributions or setups may vary.
 
+## Community Development
+
+Since this project is now discontinued, we encourage the community to:
+
+- Fork this repository and continue development
+- Build upon the existing concepts and architecture
+- Create new implementations or improvements
+- Share your work with the cybersecurity community
+
+The codebase and concepts are available under the licenses below for anyone to use and expand upon.
+
+## Advanced Feature Ideas for Community Development
+
+The following are advanced feature concepts envisioned by the original concept creator (**Muhammed Shafin P**) that the community can implement. All these ideas are released under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license and are free for anyone to build upon:
+
+### 🔧 **Full Package Manager Support**
+- **Multi-Distribution Support:** Extend beyond `apt` to support `yum`, `dnf`, `pacman`, `zypper`, `portage`, `brew`, and other package managers
+- **Package Manager Auto-Detection:** Automatically detect the system's package manager and use appropriate installation commands
+- **Fallback Installation Methods:** If package manager installation fails, automatically fallback to source compilation or alternative installation methods
+- **Package Version Management:** Allow users to choose specific versions of tools and manage upgrades/downgrades
+- **Dependency Conflict Resolution:** Intelligent handling of package conflicts and dependency resolution
+
+### 🖥️ **Operating System Auto-Detection & Parsing**
+- **Comprehensive OS Detection:** Detect Linux distributions, Windows versions, macOS variants, and BSD systems
+- **Architecture Detection:** Support for x86, x64, ARM, and other processor architectures
+- **Kernel Version Parsing:** Extract and utilize kernel version information for compatibility checks
+- **Distribution-Specific Optimizations:** Tailor installation and execution methods based on detected OS characteristics
+- **Virtual Environment Detection:** Identify if running in Docker, VMs, WSL, or other virtualized environments
+
+### 📦 **Advanced Tool Management System**
+- **Tool Categories & Tagging:** Organize tools by categories (network scanning, web testing, forensics, etc.) with searchable tags
+- **Tool Dependency Mapping:** Visual dependency graphs showing tool relationships and requirements
+- **Custom Tool Integration:** Plugin system allowing users to add their own tools with JSON/YAML configurations
+- **Tool Health Monitoring:** Regular checks for tool availability, updates, and functionality
+- **Batch Operations:** Install, update, or remove multiple tools simultaneously
+
+### 🌐 **Enhanced Network Intelligence**
+- **Network Topology Discovery:** Automatically map network infrastructure and device relationships
+- **Service Fingerprinting:** Advanced service detection and version identification
+- **Vulnerability Correlation:** Cross-reference discovered services with known vulnerability databases
+- **Real-time Network Monitoring:** Continuous monitoring of network changes and new device detection
+- **Geographic IP Mapping:** Visual representation of target locations and network paths
+
+### 🎯 **Target Management & Session Persistence**
+- **Target Database:** Persistent storage of discovered hosts, services, and vulnerabilities
+- **Session Templates:** Pre-configured attack/testing scenarios for common penetration testing workflows
+- **Progress Tracking:** Visual indicators of testing progress across different targets and attack vectors
+- **Collaborative Sessions:** Multi-user support for team-based penetration testing
+- **Evidence Collection:** Automated screenshot, log, and output collection for reporting
+
+### 🔐 **Advanced Security & Privilege Management**
+- **Privilege Escalation Framework:** Secure handling of administrative privileges without hardcoded passwords
+- **Tool Sandboxing:** Isolation of potentially dangerous tools in containerized environments
+- **Audit Logging:** Comprehensive logging of all actions for compliance and forensic purposes
+- **Permission-Based Access:** User role management with different access levels to tools and features
+- **Secure Communication:** Encrypted communication channels for remote tool execution
+
+### 🎨 **Modern User Experience Enhancements**
+- **Dark/Light Theme Support:** Multiple UI themes with user customization options
+- **Responsive Design:** Adaptive interface that works on different screen sizes and orientations
+- **Drag-and-Drop Workflows:** Visual workflow builder for chaining multiple tools together
+- **Real-time Collaboration:** Live sharing of terminal sessions and results between team members
+- **Advanced Reporting:** Automated generation of professional penetration testing reports
+
+### 🔧 **Developer & Extension Framework**
+- **Plugin Architecture:** Modular system allowing third-party tool integrations
+- **API Framework:** RESTful API for remote control and integration with other security platforms
+- **Scripting Support:** Built-in support for Python, Bash, and PowerShell script execution
+- **Custom Command Macros:** User-defined command sequences for repetitive tasks
+- **Tool Marketplace:** Community-driven repository for sharing custom tool configurations
+
+### 🚀 **Performance & Scalability**
+- **Parallel Processing:** Multi-threaded execution of multiple tools simultaneously
+- **Resource Management:** Intelligent CPU and memory allocation for resource-intensive operations
+- **Cloud Integration:** Support for cloud-based tool execution and distributed scanning
+- **Caching Systems:** Intelligent caching of tool outputs and network discovery results
+- **Background Operations:** Non-blocking execution of long-running tasks with progress notifications
+
+### 🛡️ **Ethical Use & Compliance Features**
+- **Legal Compliance Checks:** Built-in warnings and confirmations for potentially illegal operations
+- **Scope Limitation:** Configurable boundaries to prevent accidental testing of unauthorized targets
+- **Evidence Chain of Custody:** Secure handling and documentation of collected evidence
+- **Reporting Standards:** Support for industry-standard reporting formats (OWASP, NIST, etc.)
+- **Permission Verification:** Integration with authorization systems to verify testing permissions
+
+These feature concepts represent a comprehensive vision for what this toolkit could become. The community is encouraged to implement any or all of these ideas, either as extensions to the existing codebase or as inspiration for completely new implementations. All contributions should maintain the open-source spirit and give appropriate attribution to the original concept creator.
 
 ## Contributing
 
-As a proof-of-concept, contributions are welcome to expand functionality and refine the user experience. Feel free to fork the repository, make your changes, and submit pull requests.
+As a proof-of-concept that is now discontinued, the original development has ended. However, the community is welcome to fork the repository, make changes, and continue development independently. Feel free to create your own versions and share them with others.
 
 ## Licenses
 

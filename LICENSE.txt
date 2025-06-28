@@ -1,0 +1,107 @@
+PWNTOOL - Hacker's Toolkit (Proof of Concept)
+Copyright (c) 2025 BytexGrid, Muhammed Shafin P
+
+This project contains components licensed under different terms:
+
+================================================================================
+SOFTWARE LICENSE (SOURCE CODE AND IMPLEMENTATION)
+================================================================================
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+CONCEPT AND DESIGN IDEAS LICENSE
+================================================================================
+
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This license applies to the concept, design ideas, planned features, and 
+architectural vision of PWNTOOL as conceived by Muhammed Shafin P, including
+but not limited to:
+
+- Original concept and vision
+- Planned feature ideas and roadmap
+- Advanced feature concepts for community development
+- UI/UX design concepts
+- Tool integration methodologies
+- System architecture ideas
+
+You are free to:
+* Share — copy and redistribute the material in any medium or format for any 
+  purpose, even commercially.
+* Adapt — remix, transform, and build upon the material for any purpose, even 
+  commercially.
+
+Under the following terms:
+* Attribution — You must give appropriate credit to Muhammed Shafin P as the 
+  original concept creator, provide a link to the license, and indicate if 
+  changes were made. You may do so in any reasonable manner, but not in any 
+  way that suggests the licensor endorses you or your use.
+* ShareAlike — If you remix, transform, or build upon the material, you must 
+  distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological 
+measures that legally restrict others from doing anything the license permits.
+
+To view the full text of this license, visit:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+================================================================================
+PROJECT STATUS
+================================================================================
+
+This project has been discontinued and is no longer under active development
+by the original authors. The concept, codebase, and all associated materials
+are now available for the community to build upon, expand, or continue
+development under the terms specified above.
+
+For the alpha version being developed, please visit:
+https://github.com/BytexGrid/pwnpanel
+
+================================================================================
+ATTRIBUTION REQUIREMENTS
+================================================================================
+
+When using, modifying, or building upon this work, please ensure proper
+attribution:
+
+For Code (MIT License):
+- Include this license file in any distribution
+- Maintain copyright notices in source code files
+
+For Concepts/Ideas (CC BY-SA 4.0):
+- Credit "Muhammed Shafin P" as the original concept creator
+- Indicate if changes were made to the original concepts
+- Share derivative concept work under the same CC BY-SA 4.0 license
+- Provide link to original project repository
+
+================================================================================
+CONTACT AND RESOURCES
+================================================================================
+
+Original Repository: https://github.com/hejhdiss/pwntool
+Alpha Development: https://github.com/BytexGrid/pwnpanel
+Concept Creator: Muhammed Shafin P (@hejhdiss)
+UI Design: BytexGrid
+
+For questions about licensing, please refer to the official license texts:
+- MIT License: https://opensource.org/licenses/MIT
+- CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
